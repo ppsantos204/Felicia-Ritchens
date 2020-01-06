@@ -1,0 +1,36 @@
+h1 {
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+     background-image: url("https://drive.google.com/uc?id=1oZuhKnyVY4J3JkopQqCZauuBZrlKTPcS");
+     border:20px;
+     border-color:navy;
+     border-style:solid;
+     height:450px;
+     width:450px;
+    margin-left:350px;
+    margin-right:350px;
+     
+    background-size:cover;
+     background-repeat:no-repeat;     
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+
+p {
+    font-size:20px;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+body {
+   background-color:red;
+    background-size: cover;
+
+}
